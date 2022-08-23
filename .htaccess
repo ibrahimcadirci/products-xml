@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^rss.xml(/?)$ index.php?rss=1
+RewriteRule ^rss2.xml(/?)$ index.php?rss=2
